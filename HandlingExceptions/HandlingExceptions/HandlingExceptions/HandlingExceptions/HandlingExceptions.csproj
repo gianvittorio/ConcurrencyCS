@@ -5,11 +5,11 @@
     <PropertyGroup>
         <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
         <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-        <ProjectGuid>{C4DFEFF6-F594-4D1B-BF83-968AB82691DD}</ProjectGuid>
+        <ProjectGuid>{826B7732-438C-4408-B262-074589461839}</ProjectGuid>
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>ReturningValueFromTask</RootNamespace>
-        <AssemblyName>ReturningValueFromTask</AssemblyName>
+        <RootNamespace>HandlingExceptions</RootNamespace>
+        <AssemblyName>HandlingExceptions</AssemblyName>
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
     </PropertyGroup>
